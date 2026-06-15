@@ -1,0 +1,1 @@
+namespace Rimout.Contracts; public sealed record IngestRequest(MetricBatch Batch);
